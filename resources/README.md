@@ -1,3 +1,3 @@
-&larr; [Home](../) &gt; Resources
+&larr; [Home](../README.md) &middot; Resources
 
 # Resources
