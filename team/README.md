@@ -1,10 +1,10 @@
 &larr; [Home](../README.md) &middot; People
 
-# People
+# Team
 
 ## Students
 
-_👉 Add your name and link here!_
+- [WS 2020](./students/ws-20/README.md)
 
 ## Track Leads & Mentors
 
