@@ -9,7 +9,8 @@ Welcome to our Central Repo for TechLabs's Web Development Track, created and ma
 
 - [Resources](./resources/README.md): curated links to help you in your journey
 - [FAQ](./faq/README.md): collected questions and answers from students
-- [Team](./team/README.md): student and staff profiles
+- [Students](./students/README.md): your profiles
+- [TechLabs Team](./team/README.md): our profiles
 - [Projects](./projects/README.md): projects developed during our term
 
 ## How to contribute?

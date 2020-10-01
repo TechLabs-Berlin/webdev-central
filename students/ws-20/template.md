@@ -1,4 +1,4 @@
-&larr; [Home](../../README.md) &middot; [Team](../README.md) &middot; Students &middot; WS20 &middot; [STUDENT NAME]
+&larr; [Home](../../../README.md) &middot; [Students](../../README.md) &middot; [WS20](../README.md) &middot; [STUDENT NAME]
 
 # Student Name
 

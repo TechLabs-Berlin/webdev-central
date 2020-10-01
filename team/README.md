@@ -1,12 +1,10 @@
-&larr; [Home](../README.md) &middot; People
+&larr; [Home](../README.md) &middot; TechLabs Team
 
-# Team
+# TechLabs Team
 
-## Students
-
-- [WS 2020](./students/ws-20/README.md)
-
-## Track Leads & Mentors
+## Track Leads
 
 - [Daniel da Rocha](./staff/daniel-da-rocha.md)
 - [Arun Paryiar](./staff/arun-paryiar.md)
+
+## Mentors
