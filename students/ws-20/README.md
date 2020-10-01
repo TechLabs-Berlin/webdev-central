@@ -2,6 +2,6 @@
 
 # Winter Semester 2020
 
-_Add your profile here, by following the [template](./template.md)._
+_👉 Add your profile here, by following the [template](./template.md)._
 
 - [Your name](./your-profile.md)
