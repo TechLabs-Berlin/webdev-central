@@ -4,4 +4,7 @@
 
 ## Students
 
-## Staff
+## Track Leads & Mentors
+
+- [Daniel da Rocha](./staff/daniel-da-rocha.md)
+- [Arun Paryiar](./staff/arun-paryiar.md)
